@@ -1,4 +1,4 @@
-/* Copyright (c) 2015-2018 The Open Source Geospatial Foundation
+/* Copyright (c) 2015-present The Open Source Geospatial Foundation
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -15,6 +15,9 @@
  */
 /**
  * The permalink provider.
+ *
+ * **CAUTION: This class is only usable in applications using the classic
+ * toolkit of ExtJS 6.**
  *
  * Sample code displaying a new permalink each time the map is moved:
  *
